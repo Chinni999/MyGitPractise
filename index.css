@@ -1,0 +1,29 @@
+.head{
+	text-align : center;
+	color:blue;
+}
+.user{
+    
+    padding: 10px;
+   
+   margin-bottom: 10px;
+   text-align: center;
+   
+}
+.password{
+	padding:10px;
+
+   margin-bottom: 10px;
+   text-align: center;
+
+}
+
+.username{
+	color:red;
+}
+.hidden{
+	display:none;
+}
+.password{
+	color:red;
+}
